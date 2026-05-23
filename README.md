@@ -91,7 +91,7 @@ question-answering-app/
 ---
 
 ## Demo Video
-[Add your YouTube or Google Drive demo link here. ](question-demo_)
+[Demo Video Here.](question-demo_)
 
 ---
 ## CODE
