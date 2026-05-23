@@ -76,7 +76,6 @@ streamlit run app.py
 question-answering-app/
 │
 ├── question.py
-├── requirements.txt
 ├── README.md
 ```
 
